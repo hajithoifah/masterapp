@@ -1,0 +1,38 @@
+{
+  "wallpapers": [
+    {
+      "id": "06e164bd5dbd9ea48ca9572e56471d38",
+      "title": "06E164Bd5Dbd9Ea48Ca9572E56471D38",
+      "image_url": "wallpapers/06e164bd5dbd9ea48ca9572e56471d38.webp"
+    },
+    {
+      "id": "268c13c323a550cefad6b673d96f26d2",
+      "title": "268C13C323A550Cefad6B673D96F26D2",
+      "image_url": "wallpapers/268c13c323a550cefad6b673d96f26d2.webp"
+    },
+    {
+      "id": "4e02c66c1dbbed4957639aa518075627",
+      "title": "4E02C66C1Dbbed4957639Aa518075627",
+      "image_url": "wallpapers/4e02c66c1dbbed4957639aa518075627.webp"
+    },
+    {
+      "id": "7e7035865fee3bfe68da0bf841869b5f",
+      "title": "7E7035865Fee3Bfe68Da0Bf841869B5F",
+      "image_url": "wallpapers/7e7035865fee3bfe68da0bf841869b5f.webp"
+    },
+    {
+      "id": "daf38fbeb3b17da525679c55fd944e7a",
+      "title": "Daf38Fbeb3B17Da525679C55Fd944E7A",
+      "image_url": "wallpapers/daf38fbeb3b17da525679c55fd944e7a.webp"
+    }
+  ],
+  "guides": [],
+  "admob_config": {
+    "app_id": "",
+    "open_ads": "",
+    "interstitial": "",
+    "rewarded": "",
+    "banner": "",
+    "native": ""
+  }
+}
